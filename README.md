@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 - 🔭 I’m PhD Candidate at [University of Porto](https://www.up.pt/)
 - 🌱 I’m working on NLP, expecially low-resource language
