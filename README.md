@@ -5,4 +5,5 @@
 - 👯 I’m looking to collaborate on low-resource NLP 
 - 📫 How to reach me: [My Twiiter](https://twitter.com/Shmuhammadd) 
 - 😄 Pronouns: He/Him
+- [Website](https://www.shmuhammad.com). I blog [here](https://blogs.shmuhammad.com)
 
